@@ -24,7 +24,7 @@ public class Abcd
                arr[i][j] = scan.nextInt();
            }
        }
-	   
+	   scan.close();
        System.out.print("The Array is :\n");
        for(i=0; i<arr.length; i++)
        {
