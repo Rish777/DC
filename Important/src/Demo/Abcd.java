@@ -44,7 +44,7 @@ public class Abcd
        max = arr[j][i];
        }
        }
-       System.out.print(max+",");
+       System.out.print(max+ ",");
        }
 
    }
