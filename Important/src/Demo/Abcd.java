@@ -1,4 +1,4 @@
-package Default;
+package Demo;
 
 
 import java.util.Scanner;
@@ -44,7 +44,7 @@ public class Abcd
        max = arr[j][i];
        }
        }
-       System.out.println("Maximum elements are"+max);
+       System.out.print(max+",");
        }
 
    }
