@@ -1,7 +1,7 @@
 package Demo;
 import java.util.*;
 
-public class Duplicate {
+public class Account {
 
 	public static void main(String[] args) 
 	{	
