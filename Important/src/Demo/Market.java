@@ -13,7 +13,7 @@ public class Market {
 		{
 			System.out.println("1 : Cabury");
 			System.out.println("2 : Nestle");
-			System.out.println("3 : Dairy_Milk");
+			System.out.println("3 : Dairy_Milk  ");
 		}
 		else if(s==2)
 		{
