@@ -1,0 +1,104 @@
+@charset "ISO-8859-1";
+
+*
+{
+	margin:0;
+	padding:0;
+
+}
+header
+{
+	background-image:url(BG-1.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	margin-right: auto;
+	margin-top:  auto;
+	min-width:400px;
+	
+	
+	
+} 	
+.pqr
+{
+	margin-right: auto;
+	margin-top:  auto;
+	min-width: 400px;
+	
+	 
+}
+label.R
+{
+	position: relative;
+	font-size: 25px;
+	top:175px;
+	left:425px;	
+	color: #fff;
+	padding:5px 25px;
+}
+input.R_email
+{
+	position: relative;
+	border:thin;
+	border-radius:5px;
+	left:215pt;
+	top:250px;
+	padding:5px 5px;
+	width:150px;
+}
+input.R_password
+{
+	position: relative;
+	border:thin;
+	border-radius:5px;
+	left:92pt;
+	top:300px;
+	padding:5px 5px;
+	width:150px;
+}
+input.R_confirm_password
+{
+	position: relative;
+	border:thin;
+	border-radius:5px;
+	right:30pt;
+	top:350px;
+	padding:5px 5px;
+	width:150px;
+}
+input.R_button
+{
+	position: relative;
+	border:thin;
+	border-radius:5px;
+	right:140pt;
+	top:400px;
+	padding:5px 5px;
+	width:125px;
+}
+.Reset
+{
+	position: relative;
+	right:235pt;
+	top:220px;
+	color:white;
+}
+.About
+{
+	position: relative;
+	right:65pt;
+	top:350px;
+	color:white;
+}
+	
+label.Logo
+{
+	position: relative;
+	font-size: 25px;
+	top:40px;
+	left:550px;	
+	color: #fff;
+	padding:5px 25px;
+	border: 1px solid #fff;
+		
+}
